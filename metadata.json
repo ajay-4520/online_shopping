@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ShopReel AI",
+  "description": "A vertical reels-style e-commerce aggregator that uses AI to curate trending products from multiple platforms with seamless redirection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
